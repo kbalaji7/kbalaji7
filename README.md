@@ -16,7 +16,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+<html>
+<body>
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://count.getloli.com/@:kbalaji7?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
@@ -28,6 +29,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kbalaji7/kbalaji7/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kbalaji7/kbalaji7/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
+</html>
+</body>
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
